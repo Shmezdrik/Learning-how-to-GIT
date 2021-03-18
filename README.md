@@ -1,1 +1,1 @@
-# Learning-how-to-GIT
+This is my first public repository
